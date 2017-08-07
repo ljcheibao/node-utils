@@ -1,0 +1,32 @@
+{
+  "name": "node-utils",
+  "version": "0.0.1",
+  "author": "heibao",
+  "description": "node data type check",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "javascript",
+    "util",
+    "utils",
+    "node-util",
+    "node-utils"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mochajs/mocha.git"
+  },
+  "files": [
+    "lib",
+    "test",
+    "var",
+    "index.js"
+  ],
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
