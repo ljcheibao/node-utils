@@ -2,7 +2,7 @@
 
 从jQuery中整理的部分的工具函数以及平时积累的部分工具函数，方便开发使用
 
-[![npm](https://img.shields.io/npm/l/heibao-utils.svg)](LICENSE.md)
+[![npm](https://img.shields.io/npm/l/heibao-utils.svg)](LICENSE)
 [![NPM Version](https://img.shields.io/npm/v/heibao-utils.svg)](https://www.npmjs.com/package/heibao-utils)
 [![npm](https://img.shields.io/npm/dt/heibao-utils.svg)](https://www.npmjs.com/package/heibao-utils)
 
